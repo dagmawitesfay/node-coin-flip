@@ -1,0 +1,22 @@
+{
+  "name": "coin-flip-bootcamp",
+  "version": "1.0.0",
+  "description": "A simple Node.js web app where the user guesses whether the coin lands on heads or tails. The server generates a random outcome, compares it to the player's choice, and returns the result to the browser.",
+  "main": "flip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node coinFlip"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagmawitesfay/node-coin-flip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dagmawitesfay/node-coin-flip/issues"
+  },
+  "homepage": "https://github.com/dagmawitesfay/node-coin-flip#readme"
+}
